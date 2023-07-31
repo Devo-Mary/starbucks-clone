@@ -55,3 +55,8 @@ ul.social-media > li> a > svg{
 ul.footer-menu > li{
     margin: 2em 2em 0;
 }
+@media (max-width:576px){
+    .aside-video{
+        display: none;
+    }
+}
